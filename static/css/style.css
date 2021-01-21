@@ -906,13 +906,13 @@ img.alignright {
 
 /* for archive page starts*/
 .post-archive {
-    font-size: 15px;
-    line-height: 2;
-    padding-bottom: .8em; 
+    font-size: 14px;
+    line-height: 1.5;
+    /* padding-bottom: .1em;  */
 }
-.post-archive h2 {
+.post-archive b {
       margin: 0;
-      font: bold 25px / 1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif; 
+      font: bold 16px / 1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif; 
 }
 .post-archive .date {
       padding-right: .7em; 
