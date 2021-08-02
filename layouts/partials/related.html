@@ -5,7 +5,7 @@
     <b>See Also</b>
     <ul class="listing">
         {{ range . }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        <li><a href="{{ .RelPermalink }}{{'/'}}">{{ .Title }}</a></li>
         {{ end }}
     </ul>
 </div>
